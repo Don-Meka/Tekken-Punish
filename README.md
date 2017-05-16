@@ -1,2 +1,1 @@
-# Tekken-Punish
-Shiny app
+This is a Shiny app I made to help Tekken player manage frame data and look at punishes. There were too many files to upload. It was hosted on a linux server in my bedroom, but it's currently down. Ask me if you want to know more.
